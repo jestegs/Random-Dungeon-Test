@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2d82d59ba0d4448488aea3fd5a768bf6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - floorPrefab: {fileID: 7906745818780791174, guid: cd66edb4705b2214096a421bc01c3d93,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
